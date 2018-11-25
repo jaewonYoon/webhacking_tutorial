@@ -24,6 +24,8 @@ I am not responsible for any disadvantages if these technologies are not for per
 <ol>
   <li> sql injection </li>
    video tutorial by compuphile : <ul> <li> <a href="https://www.youtube.com/watch?v=ciNHn38EyRc">  what is sql injection (17min)</a> </li>
+  </ul>
+  <ul>
   <li><a href="https://www.youtube.com/watch?v=_jKylhJtPmI"> hacking websites with sqlinjection(9min) </a> </li>
   </ul>
   <ul>
@@ -31,7 +33,7 @@ I am not responsible for any disadvantages if these technologies are not for per
   Udemy lectures for koreans: <a href="https://www.udemy.com/everything-about-white-hat-hacker/learn/v4/t/lecture/6386970?start=0"> 화이트 해커를 위한 8가지 웹해킹 기법 </a><li>
   <li>
   칼리리눅스, dvwa, xampp 웹해킹 환경설정 <a href="https://sonofgodcom.wordpress.com/2018/11/19/kali-linux-xampp-dvwa-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/"> personnel blog </a><li> 
-    
+
+ </ul>
+ </ol> 
   
-  
-</ol> 
